@@ -1,0 +1,348 @@
+#logo{
+    position: absolute;
+width: 164.04px;
+height: 232px;
+left: 0px;
+top: -71px;
+}
+.main{
+    position: absolute;
+    height: 346px;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 69.43%;
+
+background: rgba(0, 255, 0, 0.47);
+border-radius: 0px 0px 111px 0px;
+}
+
+#heading{
+    position: absolute;
+    width: 122px;
+    height: 18px;
+    left: 46px;
+    top: 111px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+#points{
+    position: absolute;
+width: 323px;
+height: 54px;
+left: 24px;
+top: 139px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+
+}
+
+#phone{
+
+    position: absolute;
+    width: 33px;
+    height: 35.92px;
+    left: 32px;
+    top: 76%;
+}
+
+#call{
+    position: absolute;
+width: 64px;
+height: 18px;
+left: 72px;
+top: 231px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+}
+
+#num{
+    position: absolute;
+width: 126px;
+height: 18px;
+left: 72px;
+top: 259px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+}
+
+#num2{
+    position: absolute;
+width: 129px;
+height: 18px;
+left: 72px;
+top: 287px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+}
+
+#services{
+
+position: absolute;
+width: 127px;
+height: 18px;
+left: 30px;
+top: 375px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: rgba(0, 0, 0, 0.87);
+
+}
+
+#cockroach{
+    position: absolute;
+width: 36px;
+height: 36px;
+left: 30px;
+top: 435px;
+}
+
+#chead{
+
+position: absolute;
+width: 177px;
+height: 24px;
+left: 73px;
+top: 422px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+}
+
+#termite{
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 30px;
+top: 495px;
+}
+
+#termiteheader{
+
+position: absolute;
+width: 147px;
+height: 24px;
+left: 73px;
+top: 481px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+}
+
+#mosquito{
+    position: absolute;
+width: 33px;
+height: 33px;
+left: 30px;
+top: 556px;
+}
+
+#mosquitoheader{
+    position: absolute;
+width: 163px;
+height: 24px;
+left: 73px;
+top: 539px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+}
+
+#rodent{
+    position: absolute;
+width: 33px;
+height: 33px;
+left: 32px;
+top: 612px;
+}
+
+#ratheader{
+
+position: absolute;
+width: 143px;
+height: 24px;
+left: 73px;
+top: 594px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+}
+
+#bedbug{
+    position: absolute;
+width: 33px;
+height: 33px;
+left: 30px;
+top: 667px;
+}
+
+#bedbugheader{
+    position: absolute;
+width: 149px;
+height: 24px;
+left: 73px;
+top: 649px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+}
+
+#pigeon{
+    position: absolute;
+width: 33px;
+height: 33px;
+left: 30px;
+top: 723px;
+}
+
+#pigeonheader{
+    position: absolute;
+width: 141px;
+height: 24px;
+left: 73px;
+top: 705px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+}
+
+#fly{
+    position: absolute;
+width: 33px;
+height: 33px;
+left: 30px;
+top: 779px;
+}
+
+#flyheader{
+    position: absolute;
+width: 103px;
+height: 24px;
+left: 73px;
+top: 761px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+}
+#Sanitirzation{
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: 30px;
+top: 835px;
+}
+
+#sprayheader{
+    position: absolute;
+width: 118px;
+height: 24px;
+left: 73px;
+top: 817px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+}
+
+#pin{
+    position: absolute;
+width: 33px;
+height: 33px;
+left: 30px;
+top : 940px;
+}
+
+#address{
+    position: absolute;
+width: 257px;
+height: 90px;
+left: 70px;
+top: 924px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 15px;
+line-height: 18px;
+
+
+}
+
+footer{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 170%;
+bottom: 0%;
+height: 76px;
+display: flex;
+align-items: center;
+justify-content: center;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: rgba(0, 0, 0, 0.77);
+
+background-color: rgba(0, 255, 0, 0.47);
+border-radius: 0px;
+}
+
+#credits{
+    position: absolute;
+    margin-left: 1px;
+}
